@@ -1,0 +1,35 @@
+- name: Stoves At Home
+  imageurl: /assets/stovesathome.jpg
+  url: "https://stovesathome.com"
+  description: Stoves At Home is a product review and blog site with a focus on Food and Cookware niche.
+  stackused: Wordpress, HTML, CSS, Js
+
+- name: Flask Tech Doc
+  imageurl: /assets/flasktechdoc.jpg
+  url: "https://flasktechdoc.rjay.site"
+  description: Flask Tech Doc Site is a freecodecamp project that is a tech doc about creating a simple flask website.
+  stackused: Flask, HTML, CSS, Js
+
+- name: Survey Page
+  imageurl: /assets/survey-page.jpg
+  url: "https://flasksurveyform.rjay.site"
+  description: This is a functional survey page built using Flask. It is also a freecodecamp project.
+  stackused: Flask, HTML, CSS, Js
+
+- name: Tribute Page
+  imageurl: /assets/tributepage.jpg
+  url: "https://fccprojects.rjay.site/tribute-page"
+  description: A project in freecodecamp where the task was to create a tribute page. The page I've done showcase a minimalist white and red motiff.
+  stackused: HTML, CSS
+
+- name: Portfolio Page
+  imageurl: /assets/portfoliopage.jpg
+  url: "https://fccprojects.rjay.site/portfolio-page"
+  description: A project in freecodecamp where the aim was to create a portfolio page and showcase your work. However, for a more updated list my projects best see this site.
+  stackused: HTML, CSS, Js
+
+- name: Product Page
+  imageurl: /assets/productpage.jpg
+  url: "https://fccprojects.rjay.site/product-page"
+  description: This is a non-functional restaurant home page of a hypothetical company. It showcases my take if I were to design a company home page.
+  stackused: HTML, CSS
